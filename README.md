@@ -11,7 +11,8 @@ Telegram bot made using Telethon which let you access telegram account using it'
 <h3 align="center">
    <a href="https://github.com/Gladiators-Projects/Hacking-AiBot"><img src="https://img.shields.io/github/repo-size/Gladiators-Projects/Hacking-AiBot?style=for-the-badge&logo=appveyor" alt="Repo Size"></a>
    <a href="https://github.com/Gladiators-Projects/Hacking-AiBot/stargazers"><img src="https://img.shields.io/github/stars/Gladiators-Projects/Hacking-AiBot?style=for-the-badge&logo=appveyor" alt="Stars"></a>
-   <a href="https://github.com/Gladiators-Projects/Hacking-AiBot/network/members"><img src="https://img.shields.io/github/forks/Gladiators-Projects/Hacking-AiBot?style=for-the-badge&logo=appveyor" alt="Forks"></a>  
+   <a href="https://github.com/Gladiators-Projects/Hacking-AiBot/network/members"><img src="https://img.shields.io/github/forks/Gladiators-Projects/Hacking-AiBot?style=for-the-badge&logo=appveyor" alt="Forks"></a><br>
+  <a href="https://t.me/Hacking_aibot"><img src="https://img.shields.io/badge/TELEGRAM-BOT-blue?style=for-the-badge&logo=appveyor" alt="Redirect"></a>
 </h3><br>
 
 <h1 align="center"> 
