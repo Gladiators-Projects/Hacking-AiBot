@@ -1,3 +1,10 @@
+# Gladiators - Hacking-AiBot
+# Copyright (C) 2022-Present Gladiators-Projects
+# This was licensed under GNU General Public License v3.0 < https://github.com/Gladiators-Projects/Hacking-AiBot/blob/main/LICENSE >
+#
+# This file is a part of < https://github.com/Gladiators-Projects/Hacking-AiBot >
+
+
 ###################### HELP MENU + START COMMAND ONLY #####################
 
 import asyncio
